@@ -1,2 +1,2 @@
 # numeros_congruentes
-Breve sobre el estado de las investigaciones sobre los números congruentes
+Este artículo fue escrito en XML utilizando Notepad ++, producido con PreTeXt en CygWin. XML (eXtensible Markup Language); un meta-lenguaje que permite definir lenguajes de marcas -desarrollado por elWorld WideWeb Consortium (W3C). PreTeXt es un vocabulario XML para documentos académicos; puede describir el contenido y la estructura de un libro de texto, monografía o artículo académico (free; licencia GPL). CygWin es una colección de herramientas GNU -de código abierto- que proporcionan una funcionalidad similar a una distribución de Linux en Windows (free; licencia GPL y LGPL). Notepad ++ es un editor de código fuente (free; licencia GPL).
